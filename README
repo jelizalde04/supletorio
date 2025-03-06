@@ -1,0 +1,27 @@
+# 📌 Supletorio
+
+## 📖 Overview
+This repository contains key documentation regarding the application's architecture and disaster recovery plan.
+
+
+## 📜 Contents
+- **📄 Architecture Report**  
+  Detailed document about the structure and functionality of the application.
+  
+- **📄 Disaster Recovery Plan**  
+  Strategies and measures to mitigate risks in case of critical failures.
+
+- **🖼️ Architecture Diagram**  
+  A graphical representation of the application's structure.
+
+- **🖼️ Use Case Diagrams**  
+  Visual modeling of interactions between users and the system.
+
+## 🚀 How to Use This Repository
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/supletorio.git
+   
+2. **Acceder a los archivos**
+    ```bash
+     cd supletorio
